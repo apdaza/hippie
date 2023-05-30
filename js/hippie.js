@@ -44,7 +44,7 @@ function Hippie(){
 			ctx.font = "20px sans-serif";
 			ctx.fillText("Peace & Love", x+65, y + 25);
 		}
-		ctx.fillStyle = "#ff0000";
+		ctx.fillStyle = "#aa00aa";
 		ctx.font = "18px sans-serif";
 		lineas = this.tip.split("\n");
 		for (var i = 0; i < lineas.length; i++) {
